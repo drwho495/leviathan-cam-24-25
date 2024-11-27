@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "4mm Drill",
+  "shape": "drill.fcstd",
+  "parameter": {
+    "Diameter": "4.0000 mm",
+    "Length": "50.0000 mm",
+    "TipAngle": "135.0000 \u00b0"
+  },
+  "attribute": {}
+}
